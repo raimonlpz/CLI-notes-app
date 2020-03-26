@@ -1,6 +1,6 @@
 # terminal-notes-app
 -Terminal- Notes app made with NodeJS. 
-Lists notes in format JSON.
+ Lists notes in format JSON.
 
 1) Run npm install
 
