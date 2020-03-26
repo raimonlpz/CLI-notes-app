@@ -6,14 +6,14 @@ Lists notes in format JSON.
 
 2) Commands:
 
-ADD
+ADD:
 node app.js add --title="your title" --body="your body"
 
-REMOVE
+REMOVE:
 node app.js remove --title="your title" 
 
-READ
+READ:
 node app.js read --title="your title"
 
-LIST
+LIST:
 node app.js list
