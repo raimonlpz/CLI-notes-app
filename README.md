@@ -2,11 +2,9 @@
 -Terminal- Notes app made with NodeJS. 
 Lists notes in format JSON.
 
-1) 
-Run npm install
+1) Run npm install
 
-2) 
-Commands:
+2) Commands:
 ADD
 node app.js add --title="your title" --body="your body"
 
